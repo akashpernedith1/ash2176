@@ -1,16 +1,9 @@
-### Hi there 👋
+**Hi! I'm Ash!**
 
-<!--
-**ash2176/ash2176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on preparing for the MTA Python certification.
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate on nothing at the moment.
+- 🤔 I’m looking for help with nothing at the moment.
+- 📫 How to reach me: <a href="https://discord.gg/99KgwBASDC">Discord</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
