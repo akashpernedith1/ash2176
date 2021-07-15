@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on preparing for the MTA Python certification.
 - 🌱 I’m currently learning Java.
+- ✔️ I'm a discord bot developer
 - 👯 I’m looking to collaborate on nothing at the moment.
 - 🤔 I’m looking for help with nothing at the moment.
 - 📫 How to reach me: <a href="https://discord.gg/99KgwBASDC">Join my discord server!</a>
