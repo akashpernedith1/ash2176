@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on preparing for the MTA Python certification.
 - 🌱 I’m currently learning Java.
+- 🎉 Hobbies: Video Games, Fishing, Reading, Chess, Coding, Gardening, Handling animals/bugs
 - ✔️ I'm a discord bot developer
 - 📫 How to reach me: <a href="https://discord.gg/99KgwBASDC">Join my discord server!</a>
 - 😄 Pronouns: He/Him
