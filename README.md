@@ -1,4 +1,4 @@
-<h1 style=text-align:center>Hi I'm Ash!</h1>
+<h1 style="text-align:center">Hi I'm Ash!</h1>
 
 - 🔭 I’m currently working on preparing for the MTA Python certification.
 - 🌱 I’m currently learning Java.
