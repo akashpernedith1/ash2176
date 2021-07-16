@@ -1,4 +1,4 @@
-<h1>Hi I'm Ash!</h1>
+<h1 style=text-align:center>Hi I'm Ash!</h1>
 
 - 🔭 I’m currently working on preparing for the MTA Python certification.
 - 🌱 I’m currently learning Java.
@@ -8,4 +8,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am the developer of <a href="https://discord.com/api/oauth2/authorize?client_id=823664697076875335&permissions=76800&scope=bot">A-Bot</a> | <a href="https://top.gg/bot/823664697076875335">A-Bot's page on Top.gg</a>
 <hr style=color:"blue">
-<h1>Languages & Tools</h1>
+<h1 style=text-align:center>Languages & Tools</h1>
+<a href="python.org"><img src="python.png" alt="Python"></a>
