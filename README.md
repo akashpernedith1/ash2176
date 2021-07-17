@@ -14,7 +14,7 @@
 - <a href="https://python.org">Python</a>
 - <a href="https://discordpy.readthedocs.io/en/stable/">discord.py</a>
 - <a href="https://www.java.com/en/">Java</a>
-- <a href=https://www.w3schools.com/TAGS/default.ASP"">HTML</a>
+- <a href="https://www.w3schools.com/TAGS/default.ASP">HTML</a>
 - <a href="https://www.w3schools.com/cssref/">CSS</a>
 - <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">SQL</a>
 - <a href="https://code.visualstudio.com/">Visual Studio Code</a>
