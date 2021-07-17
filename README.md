@@ -1,7 +1,6 @@
 <h1>👋 Hi I'm Ash!</h1>
 
-- ###😄 Pronouns: He/Him
-
+- 😄 Pronouns: He/Him
 - 🎉 Hobbies: Coding, Fishing, Gardening, Volunteering, Reading, Video Games, Playing Chess, Exploring, Handling Animals
 - ✔️ Certified in HTML, CSS, & Construction
 - 🌱 I’m currently learning Java
