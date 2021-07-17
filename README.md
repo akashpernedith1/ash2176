@@ -1,4 +1,4 @@
-<h1>Hi I'm Ash!</h1>
+<h1>👋 Hi I'm Ash!</h1>
 
 - 😄 Pronouns: He/Him
 - 🎉 Hobbies: Coding, Fishing, Gardening, Volunteering, Reading, Video Games, Playing Chess, Exploring, Handling Animals
@@ -23,3 +23,7 @@
 - <a href="https://www.jetbrains.com/pycharm/">PyCharm</a>
 - <a href="https://www.bluej.org/">BlueJ</a>
 - <a href="https://dev.mysql.com/doc/">MySQL</a>
+
+<hr>
+
+# 👋 That's all! If you want to keep in touch with me, then please join my <a href="https://discord.gg/99KgwBASDC">Discord Server</a>
