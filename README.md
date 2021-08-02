@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🎉 Hobbies: Coding, Fishing, Gardening, Volunteering, Reading, Video Games, Playing Chess, Exploring, Handling Animals
-- ✔️ Certified in HTML, CSS, & Construction
+- ✔️ Certified in HTML, CSS, Python, & Construction
 - 🌱 I’m currently learning Java
 - ✔️ Discord Bot Developer - <a href="https://discord.com/api/oauth2/authorize?client_id=823664697076875335&permissions=76800&scope=bot">A-Bot</a> | <a href="https://top.gg/bot/823664697076875335">A-Bot's page on Top.gg</a>
 - 📫 How to reach me: <a href="https://discord.gg/99KgwBASDC">Discord</a>
