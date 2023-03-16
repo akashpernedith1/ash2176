@@ -1,4 +1,4 @@
-<h1>👋 Hi I'm Ash!</h1>
+<h1>👋 Hi I'm Akash!</h1>
 
 - 🎉 Hobbies: Coding, Fishing, Gardening, Volunteering, Reading, Video Games, Playing Chess, Exploring, Handling Animals
 - ✔️ Certified in HTML, CSS, Python, & Construction
