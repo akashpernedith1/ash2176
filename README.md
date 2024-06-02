@@ -1,7 +1,7 @@
 <h1>👋 Hi I'm Akash!</h1>
 
 - 🎉 Hobbies: Coding, Fishing, Gardening, Volunteering, Reading, Video Games, Playing Chess, Exploring, Handling Animals
-- ✔️ Certified in HTML, CSS, Python, & Construction
+- ✔️ Certified in HTML, CSS, & Python
 - 🌱 I’m currently learning C
 - 📫 How to reach me: <a href="https://discord.gg/99KgwBASDC">Discord</a>
 
